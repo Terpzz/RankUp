@@ -1,4 +1,6 @@
-<?php namespace Taco\RU;
+<?php 
+
+namespace Taco\RU;
 
 use pocketmine\{command\ConsoleCommandSender, Player};
 
