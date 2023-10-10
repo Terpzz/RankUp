@@ -3,3 +3,8 @@ author: Taco, Terpz710
 main: Taco\RU\Main
 api: "5.0.0"
 version: 1.0.2
+
+permissions:
+  rankup.cmd:
+    description: Allows players to rank up
+    default: true
