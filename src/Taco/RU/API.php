@@ -2,7 +2,7 @@
 
 namespace Taco\RU;
 
-use pocketmine\{command\ConsoleCommandSender, Player};
+use pocketmine\{command\ConsoleCommandSender, player\Player};
 
 class API {
 
