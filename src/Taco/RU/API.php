@@ -2,6 +2,7 @@
 
 namespace Taco\RU;
 
+use cooldogedev\BedrockEconomy\BedrockEconomy;
 use pocketmine\{command\ConsoleCommandSender, player\Player};
 
 class API {
